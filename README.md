@@ -10,7 +10,17 @@
 <p align="left"> 🎯 **Goals:** To become a full-stack developer, build scalable and efficient applications, contribute to open-source projects, and leverage my experience in AI to develop innovative solutions. I have worked on various AI projects, focusing on applications such as sensitive word detection and product recommendation systems.</p>
 <p align="left"> 💼 **Skills:** Proficient in Python (Django, Flask), Java (Spring Boot), and JavaScript (ReactJS, React Native) with a solid understanding of various AI technologies. Experienced in using scikit-learn and joblib for machine learning tasks and implementing Firebase for real-time functionalities.</p>
 <p align="left"> 🔍 **Experience:** My projects include developing mobile applications for journey sharing, a smart parking lot management system, and a post review website using AI for content moderation. These experiences have strengthened my skills in both backend and frontend development.</p>
-<p align="left"> 🏆 **Achievements:** Recognized as an Outstanding Student at Ho Chi Minh City Open University. Actively involved in contributing to academic and personal projects, continually seeking to expand knowledge and skills in software development and AI.</p>
+## Achievements
+
+- **Outstanding Student:** Recognized as an Outstanding Student at Ho Chi Minh City Open University for academic excellence and project contributions.
+- **GitHub Contributions:** Actively contribute to open-source projects on GitHub. Notable contributions include:
+  - **[Flight Management System](https://github.com/your-username/flight-management-system):** Developed a comprehensive flight management application using Python (Flask), JavaScript, CSS, and HTML.
+  - **[AI Projects](https://github.com/your-username/ai-projects):** Worked on various AI projects, including sensitive word detection and product recommendation systems.
+- **Project Highlights:**
+  - **Flight Management System:** Designed and implemented key functionalities for booking, ticket sales, and flight scheduling. Developed detailed use case, class, sequence, and activity diagrams.
+  - **AI Projects:** Applied machine learning technologies using scikit-learn and joblib, and integrated real-time functionalities with Firebase.
+
+Feel free to explore my GitHub profile to see more of my projects and contributions: [GitHub Profile](https://github.com/your-username)
 <p align="left"> 📚 **Education:** Currently pursuing a Bachelor's degree in Information Technology with a focus on Software Development. Committed to staying updated with the latest trends and technologies in the field to enhance my professional skills.</p>
 
 <h2 align="left">I code with</h2>
