@@ -1,7 +1,4 @@
 
-```html
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
-```
 
 Dưới đây là phiên bản cập nhật của đoạn HTML với biểu tượng Figma được điều chỉnh:
 
@@ -44,8 +41,7 @@ Dưới đây là phiên bản cập nhật của đoạn HTML với biểu tư�
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/uml/uml-original.svg" height="40" alt="uml logo" />
+ 
 </div>
 
 ---
