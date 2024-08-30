@@ -12,7 +12,7 @@
 <p align="left"> 🔍 **Experience:** My projects include developing mobile applications for journey sharing, a smart parking lot management system, and a post review website using AI for content moderation. These experiences have strengthened my skills in both backend and frontend development.</p>
 🏆 **Achievements:** Recognized as an Outstanding Student at Ho Chi Minh City Open University. Actively involved in contributing to academic and personal projects, continually seeking to expand knowledge and skills in software development and AI.
 
-Feel free to explore my GitHub profile to see more of my projects and contributions: [GitHub Profile](https://github.com/your-username)
+Feel free to explore my GitHub profile to see more of my projects and contributions: [GitHub Profile](https://github.com/Tuan2906)
 <p align="left"> 📚 **Education:** Currently pursuing a Bachelor's degree in Information Technology with a focus on Software Development. Committed to staying updated with the latest trends and technologies in the field to enhance my professional skills.</p>
 
 <h2 align="left">I code with</h2>
