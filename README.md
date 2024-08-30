@@ -1,4 +1,9 @@
-Dưới đây là phiên bản cập nhật của trang giới thiệu, bao gồm thêm Firebase, các thư viện AI và công cụ thiết kế sơ đồ lớp:
+
+```html
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
+```
+
+Dưới đây là phiên bản cập nhật của đoạn HTML với biểu tượng Figma được điều chỉnh:
 
 ---
 
