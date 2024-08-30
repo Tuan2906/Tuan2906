@@ -2,16 +2,13 @@
 
 ###
 
-<p align="left">Hello! My name is Tuan, and I’m a student specializing in Software Development. I have a strong passion for coding and technology, and I’m currently honing my skills in various programming languages and software development methodologies.</p>
-
+<p align="left">Hello! My name is Tuan, and I am currently pursuing a Bachelor's degree in Information Technology with a specialization in Software Development. I have a strong passion for coding and technology, and I am actively working on enhancing my skills in various programming languages and software development methodologies.</p>
 ###
 
-<h2 align="left">About me</h2>
 
-###
+Dưới đây là bản dịch tiếng Anh chuyên nghiệp:
 
-<p align="left"> 🎯 Goals: To become a full-stack developer, build scalable and efficient applications, and contribute to open-source projects.<br></p>
-
+<h2 align="left">About Me</h2> <p align="left"> 🎯 **Goals:** To become a full-stack developer, build scalable and efficient applications, contribute to open-source projects, and leverage my experience in AI to develop innovative solutions. I have worked on various AI projects, focusing on applications such as sensitive word detection and product recommendation systems.</p> <p align="left">💼 **Skills:** Proficient in Python (Django, Flask), Java (Spring Boot), and JavaScript (ReactJS, React Native) with a solid understanding of various AI technologies. Experienced in using scikit-learn and joblib for machine learning tasks and implementing Firebase for real-time functionalities.</p> <p align="left">🔍 **Experience:** My projects include developing mobile applications for journey sharing, a smart parking lot management system, and a post review website using AI for content moderation. These experiences have strengthened my skills in both backend and frontend development.</p> <p align="left">🏆 **Achievements:** Recognized as an Outstanding Student at Ho Chi Minh City Open University. Actively involved in contributing to academic and personal projects, continually seeking to expand knowledge and skills in software development and AI.</p> <p align="left">📚 **Education:** Currently pursuing a Bachelor's degree in Information Technology with a focus on Software Development. Committed to staying updated with the latest trends and technologies in the field to enhance my professional skills.</p>
 ###
 
 <h2 align="left">I code with</h2>
