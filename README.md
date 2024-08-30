@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left"> 🎯 Goals: To become a full-stack developer, build scalable and efficient applications, and contribute to open-source projects.<br></p>
 
 ###
 
