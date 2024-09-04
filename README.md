@@ -8,7 +8,7 @@
 
 <h2 align="left">About Me</h2>
 <p align="left"> 🎯 **Goals:** To become a full-stack developer, build scalable and efficient applications, contribute to open-source projects, and leverage my experience in AI to develop innovative solutions. I have worked on various AI projects, focusing on applications such as sensitive word detection and product recommendation systems.</p>
-<p align="left"> 💼 **Skills:** Proficient in Python (Django, Flask), Java (Spring Boot), and JavaScript (ReactJS, React Native) with a solid understanding of various AI technologies. Experienced in using scikit-learn and joblib for machine learning tasks and implementing Firebase for real-time functionalities.</p>
+<p align="left"> 💼 **Skills:** Proficient in Python (Django, Flask), Java (Spring MVC, Spring Sercurity), and JavaScript (ReactJS, React Native), C#(ADO.NET) with a solid understanding of various AI technologies. Experienced in using scikit-learn and joblib for machine learning tasks and implementing Firebase for real-time functionalities.</p>
 <p align="left"> 🔍 **Experience:** My projects include developing mobile applications for journey sharing, a smart parking lot management system, and a post review website using AI for content moderation. These experiences have strengthened my skills in both backend and frontend development.</p>
 🏆 **Achievements:** Recognized as an Outstanding Student at Ho Chi Minh City Open University. Actively involved in contributing to academic and personal projects, continually seeking to expand knowledge and skills in software development and AI.
 
