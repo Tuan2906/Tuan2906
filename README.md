@@ -22,10 +22,10 @@ Hello! My name is Tuan, and I am currently pursuing a Bachelor's degree in Infor
 
 ---
 <h2 align="left">Skill Proficiency</h2>
-<table border="1" cellpadding="10" cellspacing="0">
+<table border="1" cellpadding="10" cellspacing="0" style="width: 100%; table-layout: fixed;">
   <tr>
-    <th>Skill</th>
-    <th>Proficiency</th>
+    <th style="width: 50%;">Skill</th>
+    <th style="width: 50%;">Proficiency</th>
   </tr>
   <tr>
     <td>Python</td>
