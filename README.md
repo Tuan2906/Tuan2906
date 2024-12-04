@@ -100,7 +100,7 @@ Hello! My name is Tuan, and I am currently pursuing a Bachelor's degree in Infor
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img src="https://th.bing.com/th/id/OIP.-ODIUrNXlomvdXBGXGfzSgHaEK?w=308&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" height="40" alt="mysql logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo" />
   <img width="12" />
