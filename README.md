@@ -21,38 +21,23 @@ Hello! My name is Tuan, and I am currently pursuing a Bachelor's degree in Infor
 </p>
 
 ---
-
 <h2 align="left">Skill Proficiency</h2>
 
-<table>
-  <tr>
-    <td><strong>Python</strong></td>
-    <td>
-      <svg width="300" height="20">
-        <rect width="270" height="20" fill="#4caf50"></rect>
-        <text x="135" y="15" fill="white" font-size="12" text-anchor="middle">9/10</text>
-      </svg>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Java</strong></td>
-    <td>
-      <svg width="300" height="20">
-        <rect width="240" height="20" fill="#2196f3"></rect>
-        <text x="120" y="15" fill="white" font-size="12" text-anchor="middle">8/10</text>
-      </svg>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>JavaScript</strong></td>
-    <td>
-      <svg width="300" height="20">
-        <rect width="210" height="20" fill="#ff9800"></rect>
-        <text x="105" y="15" fill="white" font-size="12" text-anchor="middle">7/10</text>
-      </svg>
-    </td>
-  </tr>
-</table>
+<svg width="200" height="200" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <!-- Python - 9/10 -->
+  <circle r="16" cx="16" cy="16" fill="white" />
+  <circle r="16" cx="16" cy="16" fill="transparent" stroke="#4caf50" stroke-width="32" stroke-dasharray="90 10" />
+  
+  <!-- Java - 8/10 -->
+  <circle r="16" cx="16" cy="16" fill="transparent" stroke="#2196f3" stroke-width="32" stroke-dasharray="80 20" transform="rotate(-90 16 16)" />
+  
+  <!-- JavaScript - 7/10 -->
+  <circle r="16" cx="16" cy="16" fill="transparent" stroke="#ff9800" stroke-width="32" stroke-dasharray="70 30" transform="rotate(-180 16 16)" />
+  
+  <!-- Add text in the center -->
+  <text x="16" y="16" text-anchor="middle" dy="0.3em" font-size="3" fill="#000">Skill</text>
+</svg>
+
 
 
 ---
