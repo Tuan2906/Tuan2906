@@ -52,10 +52,31 @@ Hello! My name is Tuan, and I am currently pursuing a Bachelor's degree in Infor
     </td>
   </tr>
   <!-- Thêm các kỹ năng khác nếu cần -->
+  <tr>
+    <td>Ant Design</td>
+    <td>
+      <div style="background-color: #f56a00; width: 75%; color: white; text-align: center;">
+        7.5/10
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>Amis</td>
+    <td>
+      <div style="background-color: #1890ff; width: 70%; color: white; text-align: center;">
+        7/10
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>Tailwind CSS</td>
+    <td>
+      <div style="background-color: #38bdf8; width: 80%; color: white; text-align: center;">
+        8/10
+      </div>
+    </td>
+  </tr>
 </table>
-
-
-
 
 ---
 
@@ -80,5 +101,10 @@ Hello! My name is Tuan, and I am currently pursuing a Bachelor's degree in Infor
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <!-- Thêm các biểu tượng khác -->
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amis/amis-original.svg" height="40" alt="amis logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/antdesign/antdesign-original.svg" height="40" alt="antdesign logo" />
 </div>
