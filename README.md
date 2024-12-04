@@ -11,8 +11,9 @@ Hello! My name is Tuan, and I am currently pursuing a Bachelor's degree in Infor
 💼 **Skills:** Proficient in Python (Django, Flask), Java (Spring MVC, Spring Security), and JavaScript (ReactJS, React Native), C# (ADO.NET) with a solid understanding of various AI technologies. Experienced in using scikit-learn and joblib for machine learning tasks and implementing Firebase for real-time functionalities.
 </p>
 <p align="left">
-🔍 **Experience:** My projects include developing mobile applications for journey sharing, a smart parking lot management system, and a post review website using AI for content moderation. These experiences have strengthened my skills in both backend and frontend development.
+🔍 **Experience:** My projects include developing mobile applications for journey sharing, a smart parking lot management system, and a post review website using AI for content moderation. Additionally, I have gained valuable experience during my internship as a Software Engineer at Vietnam Food Joint Stock Company. There, I developed a flight search module interface using React, Ant Design, and JavaScript for the frontend, and implemented an email API with FastAPI for backend integration. I also built a web application for designing templates and components using the Amis library, developed a FastAPI backend with PostgreSQL for CRUD functionality, and created a chatbot interface with features like image/file upload and chat history display. Furthermore, I designed an editor interface with AI Assistance to enhance user experience. These experiences have strengthened my skills in both backend and frontend development.
 </p>
+
 <p align="left">
 🏆 **Achievements:** Recognized as an Outstanding Student at Ho Chi Minh City Open University. Actively involved in contributing to academic and personal projects, continually seeking to expand knowledge and skills in software development and AI. Feel free to explore my GitHub profile to see more of my projects and contributions: [GitHub Profile](https://github.com/Tuan2906)
 </p>
