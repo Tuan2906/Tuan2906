@@ -23,33 +23,37 @@ Hello! My name is Tuan, and I am currently pursuing a Bachelor's degree in Infor
 ---
 
 <h2 align="left">Skill Proficiency</h2>
+
 <table>
   <tr>
-    <td>Python</td>
+    <td><strong>Python</strong></td>
     <td>
-      <div style="background-color: #4caf50; width: 90%; color: white; text-align: center;">
-        9/10
-      </div>
+      <svg width="300" height="20">
+        <rect width="270" height="20" fill="#4caf50"></rect>
+        <text x="135" y="15" fill="white" font-size="12" text-anchor="middle">9/10</text>
+      </svg>
     </td>
   </tr>
   <tr>
-    <td>Java</td>
+    <td><strong>Java</strong></td>
     <td>
-      <div style="background-color: #2196f3; width: 80%; color: white; text-align: center;">
-        8/10
-      </div>
+      <svg width="300" height="20">
+        <rect width="240" height="20" fill="#2196f3"></rect>
+        <text x="120" y="15" fill="white" font-size="12" text-anchor="middle">8/10</text>
+      </svg>
     </td>
   </tr>
   <tr>
-    <td>JavaScript</td>
+    <td><strong>JavaScript</strong></td>
     <td>
-      <div style="background-color: #ff9800; width: 70%; color: white; text-align: center;">
-        7/10
-      </div>
+      <svg width="300" height="20">
+        <rect width="210" height="20" fill="#ff9800"></rect>
+        <text x="105" y="15" fill="white" font-size="12" text-anchor="middle">7/10</text>
+      </svg>
     </td>
   </tr>
-  <!-- Thêm các kỹ năng khác -->
 </table>
+
 
 ---
 
