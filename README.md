@@ -104,7 +104,7 @@ Hello! My name is Tuan, and I am currently pursuing a Bachelor's degree in Infor
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amis/amis-original.svg" height="40" alt="amis logo" />
+  <img src="https://th.bing.com/th/id/R.35a2254140bbb6883d13f7bddec89c03?rik=6mrDXyyHNjAflA&riu=http%3a%2f%2fwww.marketing-chine.com%2fwp-content%2fuploads%2f2014%2f10%2fbaidu-tieba.jpg&ehk=5lXQAeqCe1zhDVxBu5x45TNsNMZMUuCM6b3xK49jglA%3d&risl=&pid=ImgRaw&r=0" height="40" alt="amis logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/antdesign/antdesign-original.svg" height="40" alt="antdesign logo" />
 </div>
