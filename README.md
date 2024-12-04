@@ -22,21 +22,38 @@ Hello! My name is Tuan, and I am currently pursuing a Bachelor's degree in Infor
 
 ---
 <h2 align="left">Skill Proficiency</h2>
+<table border="1" cellpadding="10" cellspacing="0">
+  <tr>
+    <th>Skill</th>
+    <th>Proficiency</th>
+  </tr>
+  <tr>
+    <td>Python</td>
+    <td>
+      <div style="background-color: #4caf50; width: 90%; color: white; text-align: center;">
+        9/10
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>Java</td>
+    <td>
+      <div style="background-color: #2196f3; width: 80%; color: white; text-align: center;">
+        8/10
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>JavaScript</td>
+    <td>
+      <div style="background-color: #ff9800; width: 70%; color: white; text-align: center;">
+        7/10
+      </div>
+    </td>
+  </tr>
+  <!-- Thêm các kỹ năng khác nếu cần -->
+</table>
 
-<svg width="200" height="200" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
-  <!-- Python - 9/10 -->
-  <circle r="16" cx="16" cy="16" fill="white" />
-  <circle r="16" cx="16" cy="16" fill="transparent" stroke="#4caf50" stroke-width="32" stroke-dasharray="90 10" />
-  
-  <!-- Java - 8/10 -->
-  <circle r="16" cx="16" cy="16" fill="transparent" stroke="#2196f3" stroke-width="32" stroke-dasharray="80 20" transform="rotate(-90 16 16)" />
-  
-  <!-- JavaScript - 7/10 -->
-  <circle r="16" cx="16" cy="16" fill="transparent" stroke="#ff9800" stroke-width="32" stroke-dasharray="70 30" transform="rotate(-180 16 16)" />
-  
-  <!-- Add text in the center -->
-  <text x="16" y="16" text-anchor="middle" dy="0.3em" font-size="3" fill="#000">Skill</text>
-</svg>
 
 
 
