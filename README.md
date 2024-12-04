@@ -1,24 +1,24 @@
 <h1 align="left">Hello, Recruiters and Visitors! 👋</h1>
-<p align="left">
+<p align="justify">
 Hello! My name is Tuan, and I am currently pursuing a Bachelor's degree in Information Technology with a specialization in Software Development. I have a strong passion for coding and technology, and I am actively working on enhancing my skills in various programming languages and software development methodologies.
 </p>
 
 <h2 align="left">About Me</h2>
-<p align="left">
-🎯 **Goals:** To become a full-stack developer, build scalable and efficient applications, contribute to open-source projects, and leverage my experience in AI to develop innovative solutions. I have worked on various AI projects, focusing on applications such as sensitive word detection and product recommendation systems.
+<p align="justify">
+🎯 <strong>Goals:</strong> To become a full-stack developer, build scalable and efficient applications, contribute to open-source projects, and leverage my experience in AI to develop innovative solutions. I have worked on various AI projects, focusing on applications such as sensitive word detection and product recommendation systems.
 </p>
-<p align="left">
-💼 **Skills:** Proficient in Python (Django, Flask), Java (Spring MVC, Spring Security), and JavaScript (ReactJS, React Native), C# (ADO.NET) with a solid understanding of various AI technologies. Experienced in using scikit-learn and joblib for machine learning tasks and implementing Firebase for real-time functionalities.
+<p align="justify">
+💼 <strong>Skills:</strong> Proficient in Python (Django, Flask), Java (Spring MVC, Spring Security), and JavaScript (ReactJS, React Native), C# (ADO.NET) with a solid understanding of various AI technologies. Experienced in using scikit-learn and joblib for machine learning tasks and implementing Firebase for real-time functionalities.
 </p>
-<p align="left">
-🔍 **Experience:** My projects include developing mobile applications for journey sharing, a smart parking lot management system, and a post review website using AI for content moderation. Additionally, I have gained valuable experience during my internship as a Software Engineer at Vietnam Food Joint Stock Company. There, I developed a flight search module interface using React, Ant Design, and JavaScript for the frontend, and implemented an email API with FastAPI for backend integration. I also built a web application for designing templates and components using the Amis library, developed a FastAPI backend with PostgreSQL for CRUD functionality, and created a chatbot interface with features like image/file upload and chat history display. Furthermore, I designed an editor interface with AI Assistance to enhance user experience. These experiences have strengthened my skills in both backend and frontend development.
+<p align="justify">
+🔍 <strong>Experience:</strong> My projects include developing mobile applications for journey sharing, a smart parking lot management system, and a post review website using AI for content moderation. Additionally, I have gained valuable experience during my internship as a Software Engineer at Vietnam Food Joint Stock Company. There, I developed a flight search module interface using React, Ant Design, and JavaScript for the frontend, and implemented an email API with FastAPI for backend integration. I also built a web application for designing templates and components using the Amis library, developed a FastAPI backend with PostgreSQL for CRUD functionality, and created a chatbot interface with features like image/file upload and chat history display. Furthermore, I designed an editor interface with AI Assistance to enhance user experience. These experiences have strengthened my skills in both backend and frontend development.
 </p>
 
-<p align="left">
-🏆 **Achievements:** Recognized as an Outstanding Student at Ho Chi Minh City Open University. Actively involved in contributing to academic and personal projects, continually seeking to expand knowledge and skills in software development and AI. Feel free to explore my GitHub profile to see more of my projects and contributions: [GitHub Profile](https://github.com/Tuan2906)
+<p align="justify">
+🏆 <strong>Achievements:</strong> Recognized as an Outstanding Student at Ho Chi Minh City Open University. Actively involved in contributing to academic and personal projects, continually seeking to expand knowledge and skills in software development and AI. Feel free to explore my GitHub profile to see more of my projects and contributions: <a href="https://github.com/Tuan2906" target="_blank">GitHub Profile</a>
 </p>
-<p align="left">
-📚 **Education:** Currently pursuing a Bachelor's degree in Information Technology with a focus on Software Development. Committed to staying updated with the latest trends and technologies in the field to enhance my professional skills.
+<p align="justify">
+📚 <strong>Education:</strong> Currently pursuing a Bachelor's degree in Information Technology with a focus on Software Development. Committed to staying updated with the latest trends and technologies in the field to enhance my professional skills.
 </p>
 
 ---
